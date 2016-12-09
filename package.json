@@ -42,6 +42,11 @@
       "platform": "ios",
       "version": "",
       "locator": "ios"
+    },
+    {
+      "platform": "android",
+      "version": "",
+      "locator": "android"
     }
   ],
   "description": "Ionic2Webpack2Base: An Ionic project"
